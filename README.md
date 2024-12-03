@@ -1,7 +1,8 @@
 
-**Title**:Personal Finance Management System
+##**Title**
+Personal Finance Management System
 
-Description
+## Description
 The Personal Finance Management System is an application designed to help users track and manage their finances. 
 It provides a user-friendly dashboard to monitor total balances, categorize expenses, track goals, and manage bills.
 The system also includes features to add transactions, bank accounts, set financial goals, and generate insightful reports, such as pie charts and bar charts.
